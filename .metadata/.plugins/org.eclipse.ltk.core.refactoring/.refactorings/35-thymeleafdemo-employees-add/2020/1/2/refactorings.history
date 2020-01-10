@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;list-employees.html&apos; to &apos;employees&apos;&#x0A;- Original project: &apos;35-thymeleafdemo-employees-add&apos;&#x0A;- Destination element: &apos;employees&apos;&#x0A;- Original element: &apos;list-employees.html&apos;&#x0A;- Update references to refactored element" description="Move file" element1="src/main/resources/templates/list-employees.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1578444675580" target="src/main/resources/templates/employees" units="0" version="1.0"/>
+</session>
